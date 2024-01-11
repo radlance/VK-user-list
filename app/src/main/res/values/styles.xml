@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AddButtonColor">
+        <item name="tint">@color/white</item>
+        <item name="backgroundTint">@color/add_button_color</item>
+    </style>
+</resources>

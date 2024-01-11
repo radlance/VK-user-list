@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VkUserList</string>
+    <string name="name">name</string>
+    <string name="last_name">last_name</string>
+    <string name="user_list">Список пользователей</string>
+    <string name="id">id</string>
+    <string name="save">Сохранить</string>
+    <string name="error">error</string>
+    <string name="delete">Удалить</string>
+</resources>
